@@ -1,0 +1,20 @@
+{
+    "cSpell.language": "en-GB",
+    "astyle.astylerc": "${workspaceFolder}/Tools/CodeStyle/astylerc",
+    "files.associations": {
+        "functional": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "geometry": "cpp",
+        "cmath": "cpp",
+        "*.tcc": "cpp",
+        "unordered_map": "cpp",
+        "istream": "cpp",
+        "numeric": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "mutex": "cpp",
+        "stop_token": "cpp"
+    },
+    "ros.distro": "noetic"
+}
